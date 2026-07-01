@@ -1,0 +1,192 @@
+canonical_identifier: bkk:krp/KR6j0723/v1
+canonical_location: https://kanripo.org/bkk/KR6j0723/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經寶鏡疏懸談
+  identifiers:
+    alt_id:
+    - X16n0315
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X16/X16n0315.xml
+    old_id: X16n0315
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0723_000.yaml, hash: 'sha256:b135614b2908129398f165c978669c4fb6e083feb2b422e045feaa2c35e31513'}
+  - {seq: 1, filename: KR6j0723_001.yaml, hash: 'sha256:448087337370b096e9adeaf852884db6cd35d65e67fb3f61b9c5408b51f086f4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0723_001.markers.yaml, hash: 'sha256:edf0739c21fb82a981adce2235afea880ae2a1208ec931eb783119e013111ffe'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13415
+  label: 大佛頂首楞嚴經寶鏡疏懸談
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-2
+    span:
+    - body
+    - 230
+    - 230
+  label: 一教起因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-3
+    span:
+    - body
+    - 4705
+    - 4705
+  label: 二藏乘分攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-4
+    span:
+    - body
+    - 5062
+    - 5062
+  label: 三教義分齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-5
+    span:
+    - body
+    - 6126
+    - 6126
+  label: 四所被機宜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-6
+    span:
+    - body
+    - 6976
+    - 6976
+  label: 五能詮體性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-7
+    span:
+    - body
+    - 7959
+    - 7959
+  label: 六所詮宗趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-8
+    span:
+    - body
+    - 8632
+    - 8632
+  label: 七教跡前後
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-9
+    span:
+    - body
+    - 9682
+    - 9682
+  label: 八傳譯時年
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-10
+    span:
+    - body
+    - 9954
+    - 9954
+  label: 九通釋名題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-11
+    span:
+    - body
+    - 9960
+    - 9960
+  label: 一經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-12
+    span:
+    - body
+    - 12669
+    - 12669
+  label: 二譯人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-13
+    span:
+    - body
+    - 12673
+    - 12673
+  label: 一主譯人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-14
+    span:
+    - body
+    - 12935
+    - 12935
+  label: 二譯語人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0723_X_001-mulu-15
+    span:
+    - body
+    - 13036
+    - 13036
+  label: 三筆授人
+  type: mulu
+  level: 1
+hash: sha256:9bb29466c340c12c11f7f9d1635612a201a2ab790bc5e933905ab0c2045ec11d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

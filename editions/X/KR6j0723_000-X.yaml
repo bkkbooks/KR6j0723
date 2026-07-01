@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0723/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經寶鏡疏懸談
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X16/X16n0315.xml
+    old_id: X16n0315
+hash: sha256:b135614b2908129398f165c978669c4fb6e083feb2b422e045feaa2c35e31513
